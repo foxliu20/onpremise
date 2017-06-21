@@ -1,1 +1,1 @@
-FROM foxliu/sentry:ldap
+FROM foxliu/sentry:8.17-ldap
